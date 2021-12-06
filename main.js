@@ -19,6 +19,7 @@ async function main() {
     let Germany = 0
     let USA = 0
 
+
     for (let i = 0; i < Data.length; i++) {
         DJ = Data[i]
         if (DJ.country === 'United Kingdom') {
